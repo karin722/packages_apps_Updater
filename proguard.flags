@@ -1,1 +1,1 @@
--keep class com.crdroid.updater.ui.FlingBehavior { *; }
+-keep class io.maud.floko.updater.ui.FlingBehavior { *; }
